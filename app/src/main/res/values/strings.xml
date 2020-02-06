@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="toast_quit">再按一下，退出程序</string>
+</resources>
